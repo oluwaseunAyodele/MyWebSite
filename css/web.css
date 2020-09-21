@@ -1,0 +1,19 @@
+/*this is the external web css for the sample website*/
+
+.samplelogo{width:50px;}
+.jombo{padding:50px;
+background-image: url("images/backgound.jpg");
+ background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.content{padding:50px;
+
+}
+
+footer {
+  text-align: center;
+  padding: 3px;
+  background-color:#3F3E3E  ;
+  color: white;
+}
